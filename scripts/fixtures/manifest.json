@@ -1,0 +1,5 @@
+{
+  "suite": "demo-frozen-suite",
+  "tasks_sha256": "eaffcdd103a946e24dabb4c725edde574cd8acf9629a544e45e6db6832159e8c",
+  "notice": "frozen baseline; any edit requires an authorized change chain and a recomputed hash"
+}
