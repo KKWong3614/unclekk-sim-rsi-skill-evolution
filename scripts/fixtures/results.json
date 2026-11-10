@@ -1,0 +1,11 @@
+{
+  "suite": "demo-frozen-suite",
+  "notice": "示意运行结果（demo only）。status 只允许 validated；unavailable/error/skipped/blocked 无论 pass 取值都不得判为通过。",
+  "results": [
+    {"id": "T01", "pass": true, "status": "validated", "reason": ""},
+    {"id": "T02", "pass": true, "status": "validated", "reason": ""},
+    {"id": "T03", "pass": true, "status": "validated", "reason": ""},
+    {"id": "T04", "pass": true, "status": "validated", "reason": ""},
+    {"id": "T05", "pass": true, "status": "validated", "reason": ""}
+  ]
+}
