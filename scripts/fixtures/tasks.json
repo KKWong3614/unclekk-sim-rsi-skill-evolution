@@ -1,0 +1,12 @@
+{
+  "suite": "demo-frozen-suite",
+  "version": "1.0.3",
+  "notice": "示意用冻结任务集（demo only，非实测数据）。真实使用请替换为自己的确定性任务集，并重新计算 manifest.tasks_sha256。",
+  "tasks": [
+    {"id": "T01", "name": "guard behaviour", "expected": "pass"},
+    {"id": "T02", "name": "consistency check", "expected": "pass"},
+    {"id": "T03", "name": "integrity lock", "expected": "pass"},
+    {"id": "T04", "name": "gate negative case", "expected": "pass"},
+    {"id": "T05", "name": "workflow end-to-end", "expected": "pass"}
+  ]
+}
